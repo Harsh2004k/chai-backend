@@ -1,0 +1,12 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "chai aur backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
